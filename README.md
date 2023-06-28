@@ -6,6 +6,8 @@ This is the fist graded submission. In this challenge I was assigned to refactor
 <img width="1226" alt="Screenshot 2023-06-27 at 13 23 47" src="https://github.com/AnthonyCiccone90/code-refactor/assets/132704517/5e1b9626-515b-494a-9427-6d6245409da5">
 
 
-Aiming for 100% is the standard. If you have any questions, concerns or critiques please contact me directly in order to improve this page as well as my own skills.
+## Aiming for 100% is the standard. If you have any questions, concerns or critiques please contact me directly in order to improve this page as well as my own skills.
 
-Starter code provided by University of Denver FSF coding botcamp.
+### Link to deployed page: https://anthonyciccone90.github.io/code-refactor/
+
+#### Starter code provided by University of Denver FSF coding botcamp.
