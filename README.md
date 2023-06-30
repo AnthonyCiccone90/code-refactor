@@ -14,7 +14,7 @@ This challenge was based on refactoring the existing code. Below are three scree
 <img width="1226" alt="Screenshot 2023-06-27 at 13 23 47" src="https://github.com/AnthonyCiccone90/code-refactor/assets/132704517/5e1b9626-515b-494a-9427-6d6245409da5">
 
 
-### Aiming for 100% is the standard. If you have any questions, concerns or critiques please contact me directly in order to improve this page as well as my own skills.
+### This page was built with a desktop view in mind only. Items may not show in a uniform fashion on other devices.
 
 ### Link to deployed page: https://anthonyciccone90.github.io/code-refactor/
 
