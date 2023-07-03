@@ -18,4 +18,4 @@ This challenge was based on refactoring the existing code. Below are three scree
 
 ### Link to deployed page: https://anthonyciccone90.github.io/code-refactor/
 
-### Starter code provided by University of Denver FSF coding botcamp.
+### Starter code and user story provided by University of Denver FSF coding botcamp.
